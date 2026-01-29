@@ -29,7 +29,6 @@ Ubuntu, Debian, Kali Linux, Parrot OS, and similar distributions.
 Clone the repository, navigate to the directory, grant execute permissions, and run the script using the following commands:
 
 ```bash
-git clone https://github.com/<your-username>/linux-system-maintenance-script.git && \
 cd linux-system-maintenance-script && \
 chmod +x system_maintenance.sh && \
 ./system_maintenance.sh
